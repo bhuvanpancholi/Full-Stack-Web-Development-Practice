@@ -38,7 +38,7 @@ Heroku A cloud platform as a service (PaaS) supporting several programming langu
 
 Vercel A cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. Optimizes front-end deployment, ideal for projects prioritizing performance and developer experience. Example: Deploying Next.js applications with zero configuration. 
 
-Vue A progressive JavaScript framework for building user interfaces. Offers a progressive framework for building user interfaces, blending the best of Angular and React's concepts. Example: <template><div>{{ message }}</div></template> in a Vue component. 
+Vue A progressive JavaScript framework for building user interfaces. Offers a progressive framework for building user interfaces, blending the best of Angular and React's concepts. Example: <template><div> {{ message }} </div></template> in a Vue component. 
 
 Angular A platform and framework for building single-page client applications using HTML and TypeScript. Provides a comprehensive framework for building scalable applications, including everything from development to testing. Example: <app-root>Loading...</app-root> as the root component. 
 
