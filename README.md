@@ -1,5 +1,5 @@
 # Full-Stack-Web-Development-Practice
-# Using the MERN Stack
+**Using the MERN Stack**
 
 HTML The backbone of any website, HTML (HyperText Markup Language) structures web content Structures web content, making it essential for creating the skeleton of web pages. Example: <p>Hello, world!</p> creates a paragraph element. 
 
